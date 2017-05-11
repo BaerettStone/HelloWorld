@@ -5,9 +5,7 @@ import java.util.*;
 
 public class CryptoConverter
 {
-  private String first = "send";
-  private String second = "more";
-  private String third = "money";
+
   ArrayList<Character> total = new ArrayList<Character>();
   Map<Character, Integer> code = new HashMap<Character, Integer>();
   
