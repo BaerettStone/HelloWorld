@@ -44,14 +44,13 @@ public class CryptoConverter
       }
     }
   }
-  
+  //neato
   public void solve()
   {
     for(int ones = 0; ones < 10; ones++)
     {
       for(int tens = 0; tens < 10; tens++)
       {
-        
       }
     }
   }
